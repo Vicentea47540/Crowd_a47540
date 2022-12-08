@@ -29552,7 +29552,6 @@ GameObject:
   - component: {fileID: 1887056096}
   - component: {fileID: 1887056095}
   - component: {fileID: 1887056092}
-  - component: {fileID: 1887056093}
   m_Layer: 0
   m_Name: Camera
   m_TagString: GameController
@@ -29568,19 +29567,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1887056091}
   m_Enabled: 1
---- !u!114 &1887056093
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1887056091}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1501e8eeb10e1b34cb714d58643c8d8a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  obstacle: {fileID: 3568207414712239072, guid: 89b4c6541ed6cbc4a96036b5f714d34b, type: 3}
 --- !u!20 &1887056095
 Camera:
   m_ObjectHideFlags: 0
